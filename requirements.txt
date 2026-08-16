@@ -1,0 +1,10 @@
+flask
+web3
+py-solc-x
+python-dotenv
+flask-sqlalchemy
+flask-login
+flask-migrate
+requests
+scikit-learn
+numpy

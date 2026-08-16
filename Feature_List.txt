@@ -1,0 +1,47 @@
+Title : Blockchain enabled transparent and tamper proof carbon credit trading platform with
+smart contract automation
+There are two types of Users:
+1. Admin
+2. Industry
+Features of Industry:
+1. Can upload their Emisssion data contains
+Industry ID, Released year, Sector, Type of Emission, Reported emission
+2. If Industry emission less than government base line the industry get remaining credits
+as bonus.
+3. If industry exceeds government base line it become penality to that industry.
+4. The industry should balance the penality.
+5. Industry can buy credits from another industry.
+6. Industry can sold credits to another industry.
+7. In Industry dashboard Industry can see their Total Industries registered, Available
+Credits, Penalty and Transaction count, Market Price which calculated using Formula
+Total available credits = Sum of all credits available in platform
+Total Required credits =
+8. in trade tab there are two buttons Sell, Buy.
+9. Industry which wants to buy credits sends request to industry which credits in Buy tab
+and displays total credits available in that platform
+10. In sell tab an industry can accept or reject the buyer request if accepted that credits
+are deducted from them and credited to buyer.
+11. In Emission Tab Total Emissions, types of emissions, Average Reduction , Data points
+refers to records count.
+12. In Emission Tab there is a table with contents Industry ID, Industry Sector, Year, Gas
+Type, Reported Emissions(Tons), Base line Emission with refers Base line for that year,
+Reduction percentage which calculated by Base line and Reported Emission, Credits
+Gained.
+13. An Industry can have more than one type of emissions.
+Features of Admin:
+1. Admin can specify Base emissions for each emission type.
+2. Admin can Specify Base price used for calculating MarketPrice.
+3. Admin can Specify adjustement factor for MarketPrice.
+4. In Dashboard Total Industries count, Total credits issued, Total credits traded, Total
+penality Industries, Current MarketPrice calculated, Supply vs Demand graph
+5. In Industry Management tab View All Industries, Approve or Reject Industry
+registration, Vew Emission History of each industry, Penality status, Suspend suspicious
+account.
+Register Page:
+Industry Name, Industry Author Name, Email Address, Mobile Number, Password.
+Create default account for admin with credentials
+Username : admin
+Password : admin@123
+Note : the admin can change their name and password later.
+Login Page
+Email, password.
